@@ -1,0 +1,9 @@
+// Ejercicio 01
+// Mi primera presentación
+
+//Declara tus variables aquí
+const nombre = 'Roberto Arias';
+let edad = 61;
+
+// Imprime el mensaje de presentación
+console.log('Hola mi nombre es ' + nombre + ' y tengo ' + edad + ' años.');

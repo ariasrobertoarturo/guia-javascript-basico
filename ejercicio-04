@@ -1,0 +1,17 @@
+// Clasificador de notas
+let nota = 1; // Cambia este valor para probar
+
+if (nota >= 10) {
+  console.log(nota + ' Es una nota excelente');
+} else if (nota >= 8) {
+  console.log(nota + 'Es una nota muy Bueno');
+  } else if (nota >= 6) {
+  console.log(nota + 'Es una nota Buena');
+  } else if (nota >= 4) {
+  console.log(nota + 'Es una nota Regular');
+  } else if (nota >= 2) {
+  console.log(nota + 'Es una nota Mala');
+
+} else {
+  console.log('Está reprobado');
+}
